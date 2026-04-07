@@ -1,0 +1,15 @@
+column,missing_count,missing_ratio,dataset
+filename,0,0.0,video_features
+filepath,0,0.0,video_features
+mood,0,0.0,video_features
+flow_mean,0,0.0,video_features
+flow_std,0,0.0,video_features
+brightness_mean,0,0.0,video_features
+saturation_mean,0,0.0,video_features
+filename,0,0.0,audio_features
+filepath,0,0.0,audio_features
+mood,0,0.0,audio_features
+bpm,0,0.0,audio_features
+rms_mean,0,0.0,audio_features
+centroid_mean,0,0.0,audio_features
+zcr_mean,0,0.0,audio_features

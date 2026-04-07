@@ -1,0 +1,9 @@
+.env
+logs/
+features/
+jamendo_dataset/
+pexels_dataset_v2/
+README_features.md
+requirements_features.txt
+reports/eda_section_draft.md
+reports/eda_summary.txt
