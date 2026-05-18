@@ -1,0 +1,5 @@
+video_file,audio_file,action,note
+pexels_dataset_v2\happy\happy_6800633.mp4,jamendo_dataset_trimmed\happy\happy_1544358.wav,forbid_positive,user review: current positive fits worse than current negative
+pexels_dataset_v2\happy\happy_6800633.mp4,jamendo_dataset_trimmed\relaxing\atlasaudio-piano-relaxing-510242 (1).wav,forbid_negative,user review: this track should not be treated as negative for this video
+pexels_dataset_v2\romantic\romantic_20563430.mp4,jamendo_dataset_trimmed\romantic\romantic_43882.wav,forbid_positive,user review: first track too fast for this slow video
+pexels_dataset_v2\romantic\romantic_20563430.mp4,jamendo_dataset_trimmed\relaxing\atlasaudio-piano-relaxing-510242 (1).wav,force_positive,user review: relaxing piano fits better than current positive

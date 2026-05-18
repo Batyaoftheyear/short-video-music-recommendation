@@ -1,9 +1,32 @@
+# Environment
 .env
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Runtime logs
 logs/
-features/
+
+# Local media datasets (heavy)
 jamendo_dataset/
+jamendo_dataset_trimmed/
 pexels_dataset_v2/
-README_features.md
-requirements_features.txt
-reports/eda_section_draft.md
-reports/eda_summary.txt
+
+# Training artifacts
+artifacts/
+
+# Reports/preview outputs
+reports/previews/
+reports/review/*.html
+reports/review/*manual_labels*.csv
+
+# Large feature tables (regenerable)
+features/audio_features.csv
+features/audio_features_trimmed.csv
+features/video_features.csv
+
+# Optional local notebook artifacts
+.ipynb_checkpoints/

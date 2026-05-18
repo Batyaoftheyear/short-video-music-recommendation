@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+opencv-python
+librosa
+soundfile
+torch
+torchvision
+open_clip_torch
+pillow

@@ -1,0 +1,6 @@
+filepath,corrected_mood,exclude_from_pairs,exclude_from_candidates,note
+jamendo_dataset_trimmed\epic\epic_1206092.wav,,1,1,user review: not epic
+jamendo_dataset_trimmed\epic\epic_1179546.wav,,1,1,user review: not epic
+jamendo_dataset_trimmed\energetic\energetic_1523682.wav,,1,1,user review: not energetic
+pexels_dataset_v2\romantic\romantic_36745459.mp4,,1,1,user review: not romantic video
+pexels_dataset_v2\romantic\romantic_20563430.mp4,relaxing,0,0,"user review: slow video, closer to relaxing than romantic"
