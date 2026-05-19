@@ -168,11 +168,3 @@ streamlit run tools/inference_demo_app.py
 - Качество сильно зависит от полноты и консистентности ручной relevance-разметки.
 - Демо-инференс с CLIP может требовать загрузки весов при первом запуске.
 
-## 11) Quick demo checklist (10–15 мин защита)
-
-1. Кратко показать постановку retrieval и pipeline.
-2. Показать `best_run.json` и критерий выбора (`Recall@5` на val).
-3. Показать `comparison_test_summary.csv` (random / rule-based / learned).
-4. Показать 2 успешных и 2 ошибочных qualitative кейса.
-5. Запустить `tools/inference_demo_app.py` на новом видео и показать top-5.
-6. Озвучить сильные/слабые стороны и план доработок.
